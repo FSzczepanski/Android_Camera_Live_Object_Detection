@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraLiveDetection</string>
+    <string name="main_title">Camera live object detection test</string>
+    <string name="main_description">Wykorzystanie Mlkit Object detector + Camera X </string>
+    <string name="take_photo">Start detection</string>
+    <string name="camera_app_not_found">No Camera app found!</string>
+
+</resources>
